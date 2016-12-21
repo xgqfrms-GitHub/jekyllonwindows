@@ -8,9 +8,9 @@ Visit the site: [https://jekyll.webgeeker.xyz](https://jekyll.webgeeker.xyz)
 # Get in touch
 This page was based heavily on the fantastic work already done by [Julian Thilo](https://github.com/juthilo/run-jekyll-on-windows) but expanded and updated by Sverrir Sigmundarson to cover the new areas and concerns with Jekyll v3.x. 
 
-You can reach me for comments, updates or to propose changes by either submitting a new issue here on [Github](https://github.com/sverrirs/jekyllonwindows/issues) or via email at [jekyll@sverrirs.com](mailto:jekyll@sverrirs.com)
+You can reach me for comments, updates or to propose changes by either submitting a new issue here on [Github](https://github.com/webgeeker/jekyllonwindows/issues) or via email at [jekyll@webgeeker.xyz](mailto:jekyll@webgeeker.xyz)
 
-Enough chatter, please visit the site: [https://labs.sverrirs.com/jekyll/](https://labs.sverrirs.com/jekyll/)
+Enough chatter, please visit the site: [https://jekyll.webgeeker.xyz](https://jekyll.webgeeker.xyz)
 
 # Website
 The website is built using Jekyll v3.3.0 and Ruby v2.2.5 on Windows. All of the material presented was tried and tested while building this site.
