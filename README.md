@@ -3,7 +3,7 @@ Installing Jekyll 3 on Windows machines is not as simple as for Linux or OSX. We
 
 Unfortunately there is a lot of breaking changes between Jekyll v2.x and v3.x but don't worry, this guide is here to help!
 
-Visit the site: [https://labs.sverrirs.com/jekyll/](https://labs.sverrirs.com/jekyll/)
+Visit the site: [https://jekyll.webgeeker.xyz](https://jekyll.webgeeker.xyz)
 
 # Get in touch
 This page was based heavily on the fantastic work already done by [Julian Thilo](https://github.com/juthilo/run-jekyll-on-windows) but expanded and updated by Sverrir Sigmundarson to cover the new areas and concerns with Jekyll v3.x. 
